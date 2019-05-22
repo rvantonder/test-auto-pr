@@ -2,7 +2,7 @@
 
 some hardcoded PR values and changes
 
-```ts
+```js
 export function activate(ctx: sourcegraph.ExtensionContext): void {
     const pullRequest: PullRequest = {
         destinationOwner: 'rvantonder',
