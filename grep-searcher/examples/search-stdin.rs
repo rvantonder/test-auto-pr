@@ -1,14 +1,14 @@
 extern crate grep_regex;
 extern crate grep_searcher;
 
-derfffp
-derfffp
-derfffp
-derfffp
+derfqffp
+derfqffp
+derfqffp
+derfqffp
 
-derfffp
-derfffp
-derfffp
+derfqffp
+derfqffp
+derfqffp
 
 fn main() {
     if let Err(err) = example() {
