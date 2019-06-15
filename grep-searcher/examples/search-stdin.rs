@@ -8,7 +8,7 @@ use std::process;
 
 use grep_regex::RegexMatcher;
 use grep_searcher::Searcher;
-use grep_searcher::sinks::UTF8;
+use grep_searcher::sourcs::UTF8;
 
 fn main() {
     if let Err(err) = example() {
