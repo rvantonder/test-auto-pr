@@ -1,14 +1,14 @@
 extern crate grep_regex;
 extern crate grep_searcher;
 
-use std::env;
-use std::error::Error;
-use std::io;
-use std::process;
+validation failed
+validation failed
+validation failed
+validation failed
 
-use grep_regex::RegexMatcher;
-use grep_searcher::Searcher;
-use grep_searcher::sinks::UTF8;
+validation failed
+validation failed
+validation failed
 
 fn main() {
     if let Err(err) = example() {
