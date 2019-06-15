@@ -1,14 +1,14 @@
 extern crate grep_regex;
 extern crate grep_searcher;
 
-derp
-derp
-derp
-derp
+validation failed
+validation failed
+validation failed
+validation failed
 
-derp
-derp
-derp
+validation failed
+validation failed
+validation failed
 
 fn main() {
     if let Err(err) = example() {
